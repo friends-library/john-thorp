@@ -1,6 +1,6 @@
 [quote.epigraph, , John 14:6]
 ____
-I AM the Way, and the Truth, and the Life.
+I am the Way, and the Truth, and the Life.
 ____
 
 [quote.epigraph, , Heb. 7:23]
@@ -9,7 +9,7 @@ Wherefore He is able also to save them to the uttermost,
 that come unto God by Him.
 ____
 
-== Memoir
+== Memoir of John Thorp
 
 Had the writer of the following Letters left an account of his religious experience,
 his life, and pursuits, there is much reason to believe,
@@ -271,6 +271,10 @@ yet was the language of a deeply tried servant expressive of the exercise of her
 The following extract from one of her letters to John Thorp,
 will show the tried state of her mind:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear and truly sympathizing Friend,
 
 I seem to myself guilty of ingratitude in being so long silent,
@@ -314,6 +318,8 @@ and by His powerful voice say, even to the spiritually dead, "`Come forth;`" the
 and not till then, can we feel our spirits quickened by Him,
 who is of a truth the resurrection and the life of every truly living soul,
 that lives to and in Him.
+
+--
 
 Frances Dodshon lived to advanced age, and during the latter years of her life, she was,
 at seasons, by the power of Divine love and light,
@@ -376,8 +382,13 @@ appears by a letter which he addressed soon after that event to Abraham Shacklet
 and which, coming to the publisher`'s hands too late to be inserted in its proper place,
 may not unsuitably be introduced here:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Thorp to A. Shackleton (upon the death of his father, Richard Shackleton)
 
+[.signed-section-context-open]
 1792+++.+++
 
 In justice to you and myself,
@@ -416,7 +427,10 @@ and all your father`'s house, desiring He may have you always in his keeping.
 I am, with the salutation of love to yourself, your family, and sisters,
 your affectionate friend,
 
+[.signed-section-signature]
 John Thorp.
+
+--
 
 In the 8th Month of 1793, John Thorp attended the funeral of his friend Frances Dodshon,
 who died at Macclesfield, and was there interred.
@@ -649,6 +663,8 @@ The following day, being the 30th of the 9th Month, 1817,
 about five o`'clock in the afternoon, while sitting in his chair,
 he closed his eyes and quietly departed.
 
+[.signed-section-signature]
 John Bradshaw.
 
+[.signed-section-context-close]
 Manchester, 10th Month 81, 1820.

@@ -132,14 +132,17 @@ He was aged about seventy-five, and a minister about forty-three years.
 Given forth by the Meeting aforesaid, held at Manchester the First of the Fourth Month,
 1818, and signed in and on behalf thereof, by
 
+[.signed-section-signature]
 +++[+++69 members of the Meeting]
 
 Read and approved in our Quarterly Meeting for Lancashire, held at Manchester,
 the Second day of the Fourth Month, 1818, and in and on behalf thereof, signed by
 
-George Crosfield, Jun.
-Clerk.
+[.signed-section-signature]
+George Crosfield, Jun. Clerk.
 
+[.signed-section-closing]
 Signed on behalf of the Women`'s Meeting by
 
+[.signed-section-signature]
 Elizabeth Crewdson, Clerk.

@@ -1,12 +1,10 @@
-== Reflections
+[#reflect, short="Reflections on the Conditions of Mankind"]
+== Reflections on the allotments of Providence in the varied conditions of Mankind.
 
-On the allotments of Providence in the varied conditions of Mankind.
-
-The Lord is the All-wise Disposer of events; He maketh rich, and maketh poor: (it is God,
-saith Moses,
-that giveth men power to get wealth.) He exalteth and abaseth at His pleasure;
-and though I do most firmly believe, that God "`doth not afflict willingly,
-nor grieve the children of men;`" that He is a God of mercy, and knoweth all our wants,
+The Lord is the All-wise Disposer of events; He makes rich, and makes poor: (it is God,
+says Moses, that gives men power to get wealth.) He exalts and abases at His pleasure;
+and though I do most firmly believe, that God "`does not afflict willingly,
+nor grieve the children of men;`" that He is a God of mercy, and knows all our wants,
 as well as our weaknesses, and will add all that His wisdom sees best,
 to those who first seek His kingdom, and the righteousness thereof;
 yet am I forced to confess, with regard to His respective outward,
@@ -25,8 +23,7 @@ what of those who wandered about "`in sheep-skins and goat-skins, being destitut
 afflicted, tormented, of whom the world was not worthy?`"
 and what of the holy, lowly Jesus, who had not where to lay His head?
 
-The like hath been the situation of many true disciples
-and Christians of the purest ages;
+The like has been the situation of many true disciples and Christians of the purest ages;
 and since, of many of the first Reformers, who have lived in valleys and desolate places,
 and who hare been true successors of the Apostles in nakedness and want,
 treated as the off-scouring of all things, and to whom, indeed,
@@ -41,10 +38,10 @@ tried with a scarcity of the outward accommodations of this life.
 
 Riches, surely, are not certain marks of Divine favour,
 nor prosperity an evidence that our ways please God.
-Doth he not sometimes give men their heart`'s desire,
-and withal send leanness into their souls?
+Does he not sometimes give men their heart`'s desire,
+and with it send leanness into their souls?
 We are apt to call providences by wrong names.
-Afflictions, "`more precious than gold that perisheth,`" we call curses;
+Afflictions, "`more precious than gold that perishes,`" we call curses;
 and riches we call blessings, when, for once they are so,
 it is to be feared they are sent of God a thousand times for judgements.
 The distresses and troubles of Israel of old were often administered in mercy,
@@ -58,7 +55,7 @@ who in this, though severe, yet more intelligible language to earthly hearts,
 is seeking to convince us of our dependance on Him, relation to Him,
 and that it is He who can bless or blast all our endeavours.
 
-I have often thought, and it hath been confirmed in my mind,
+I have often thought, and it has been confirmed in my mind,
 that if we were but more attentive,
 and disposed to obey the secret intimations of the "`wonderful
 Counsellor,`" who speaks from heaven in our hearts,
@@ -70,22 +67,22 @@ we should thereby avoid every snare,
 and be enabled happily, in the line of duty, to go forward in the lot of our appointment;
 and then, though our dwellings might be with the lowly,
 and we should have to labour for daily bread, yet, divested of anxious care,
-we should rest secure in His providence, who numbereth the hairs of our heads,
+we should rest secure in His providence, who numbers the hairs of our heads,
 clothes the lilies with transcendent beauty, and hears the young lions when they cry.
 
 If thus we were concerned to worship the Lord our God,
-to bless Him in the lot He hath appointed us, He would bless our bread and our water;
+to bless Him in the lot He has appointed us, He would bless our bread and our water;
 and if consistent with His will, and the designs of His wisdom,
 He can increase our corn and oil, and multiply our gold and silver.
 Indeed, cross occurrences, adverse providences, or afflictions, however administered,
 have not always their desired or intended effects:
 so the Lord complained formerly--"`I have smitten you with blasting and mildew,`"
-"`yet have ye not returned unto Me.`" There is an aptness in the human mind (which
-sees not beyond things that are natural) to rest in second causes;
+"`yet you have not returned unto Me.`" There is an aptness in the human mind
+(which sees not beyond things that are natural) to rest in second causes;
 and, blind to the discriminating providence of the Most High,
 to fix the blame on secondary agents; but surely,
-"`affliction cometh not forth of the dust,
-neither doth trouble spring out of the ground.`"
+"`affliction comes not forth of the dust,
+neither does trouble spring out of the ground.`"
 
 Oh that, through the medium of Divine Light,
 we might look up to God! therein we should discover the
@@ -103,4 +100,5 @@ in uniform mercy and goodness, what is most convenient for us,
 and all for this most desirable, most glorious purpose, to redeem,
 to gather us to Himself, who is the fulness of blessing and of life.
 
+[.signed-section-signature]
 John Thorp.
