@@ -1,10 +1,15 @@
 [#harwood, short="Memoir of Joseph Harwood"]
 == A Memoir of Joseph Harwood, of Manchester.
 
+[.chapter-subtitle--blurb]
 +++[+++Written by John Thorp]
 
-"`The righteous shall be had in everlasting remembrance,
-but the name of the wicked shall rot.`"
+[.centered]
+_"`The righteous shall be had in everlasting remembrance,
+but the name of the wicked shall rot.`"_
+
+[.small-break]
+'''
 
 Joseph Harwood was born at Bolton in Lancashire, in the year 1712,
 where his parents lived in good repute,
@@ -163,4 +168,5 @@ Host in the just tribute of an everlasting Hallelujah.
 He departed this life in the 64th year of his age, on the 12th,
 and was buried in Friends`' burying ground, at Manchester, the 14th day of 1st Mo. 1776.
 
+[.signed-section-signature]
 John Thorp.
