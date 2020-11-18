@@ -460,7 +460,7 @@ as in the days when you were brought forth out of the land of spiritual Egypt.
 ====
 
 [.blurb]
-=== Letter VII
+=== Letter 7
 
 [.letter-heading]
 To Frances Dodshon.
@@ -1144,7 +1144,7 @@ be sanctified to your everlasting salvation.
 ====
 
 [.blurb]
-=== Letter XIII
+=== Letter 13
 
 [.letter-heading]
 To Richard Shackleton.
@@ -4375,7 +4375,7 @@ I am, in true love, in which my wife unites, your affectionate friend,
 John Thorp.
 
 [.blurb]
-=== Letter 43
+=== Letter 53
 
 [.letter-heading]
 To John Bevans.
@@ -4529,7 +4529,7 @@ will land us safely at last, I have no doubt, in His own holy and everlasting ki
 John Thorp.
 
 [.blurb]
-=== Letter 46
+=== Letter 56
 
 [.letter-heading]
 To Richard Reynolds.
