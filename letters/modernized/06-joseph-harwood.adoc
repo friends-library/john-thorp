@@ -1,4 +1,4 @@
-[#harwood, short="Memoir of Joseph Harwood"]
+[short="Memoir of Joseph Harwood"]
 == A Memoir of Joseph Harwood, of Manchester.
 
 [.chapter-subtitle--blurb]
